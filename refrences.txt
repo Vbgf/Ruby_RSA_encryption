@@ -1,0 +1,3 @@
+http://ruby-doc.org/stdlib-2.0/libdoc/openssl/rdoc/OpenSSL/PKey/RSA.html#method-i-export
+http://ruby-doc.org/stdlib-2.0/libdoc/openssl/rdoc/OpenSSL.html
+http://doctrina.org/How-RSA-Works-With-Examples.html
